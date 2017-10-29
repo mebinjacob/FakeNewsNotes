@@ -146,7 +146,7 @@ News is the foundation of our democracy.
 
 Many of these fake news sites are click bait's(they just want to create money and don't care about any one or anything else.) 
 
- #Fake News vs. Propaganda.
+ # Fake News vs. Propaganda.
 Donald Trump was endorsed  by Pope was a fake news.
 It is dangerous as voting can be based on information that is wrong.
 
@@ -162,4 +162,27 @@ Investigative journalist
 * Misleading Content:- Misleading use of information to frame an issue or individual.
 * Imposter Content:- When genuine source are impersonated.
 * fabricated content:- New content, that is 100% flase, designed to deceive and do harm.
+
+Some Propoganda Sites :-
+
+Publication Name | Approximate Facebook Following | Type of News Outlet
+-----------------|--------------------------------|--------------------
+The Onion | 6,000,000 | Satire
+The Borowitz Report - The New Yorker | 3,000,000 | Satire
+Duffel Blog | 250,000 | Satire
+Newslo | 170,000 | Satire
+Weekly World News | 100,000 | Satire
+Clickhole | 600,000 | Satire
+American News | 5,000,000 | Hoax
+DC Gazette | 420,000 | Hoax
+Activist Post | 540,000 | Propaganda
+Before It's News | 400,000 | Propaganda
+Daily Buzz Live | 160,000 | Propaganda
+Disclose TV | 1,900,000 | Propaganda
+InfoWars | 613,000 | Propaganda
+Natural News | 2,000,000 | Propaganda
+Red Flag News | 270,000 | Propaganda
+World Truth TV | 1,700,000 | Propaganda
+
+
 
